@@ -20,7 +20,7 @@ Sistemi ayağa kaldırmak için bilgisayarınızda **Docker** yüklü olması ye
 
 1. Projeyi klonlayın ve dizine gidin:
 ```bash
-git clone <sizin-repo-linkiniz>
+git clone https://github.com/Pavlushkax/task_runner.git
 cd task_runner
 ```
 
